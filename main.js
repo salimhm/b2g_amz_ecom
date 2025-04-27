@@ -11,6 +11,8 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const groqApiKey = process.env.GROQ_API_KEY;
+const proxyEndpoint = [process.env.PROXY];
+
 
 const limit = pLimit(1);
 const userAgent = new UserAgent().toString();
