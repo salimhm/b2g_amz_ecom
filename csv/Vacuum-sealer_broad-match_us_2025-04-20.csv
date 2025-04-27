@@ -1,0 +1,101 @@
+Keyword,Intent,Volume,Trend,Keyword Difficulty,CPC (USD)
+vacuum sealer,Commercial,49500,"0.44,0.54,0.44,0.54,0.44,0.54,0.66,0.66,0.81,1.00,0.66,0.54",69,0.46
+vacuum seal bags,"Informational, Transactional",27100,"0.54,0.67,0.81,0.67,1.00,0.67,0.54,0.67,0.67,1.00,1.00,0.67",51,0.95
+foodsaver vacuum sealer,"Informational, Transactional",12100,"0.36,0.23,0.30,0.36,0.36,0.54,0.81,0.81,0.67,1.00,1.00,0.44",48,0.40
+vacuum sealer bags,"Informational, Transactional",9900,"0.82,1.00,0.55,0.67,0.44,0.55,0.82,0.82,0.55,0.67,0.67,0.55",35,0.95
+mason jar vacuum sealer,Commercial,8100,"0.24,0.54,0.29,0.36,0.44,0.44,0.44,0.54,0.81,1.00,0.54,0.54",31,0.49
+chamber vacuum sealer,Commercial,6600,"0.44,0.36,0.44,0.54,0.81,0.54,0.81,0.66,1.00,1.00,0.81,0.44",12,0.57
+food saver vacuum sealer,"Informational, Transactional",5400,"0.83,0.21,0.42,1.00,0.67,0.13,0.13,0.13,0.13,0.29,0.29,0.21",25,0.48
+food vacuum sealer,Commercial,5400,"0.44,0.36,0.44,0.44,0.36,0.44,0.44,0.55,0.82,1.00,0.67,0.44",60,0.43
+vacuum seal bags for clothes,Commercial,5400,"0.44,1.00,0.44,1.00,0.54,0.44,0.54,0.19,0.24,0.24,0.81,0.66",52,0.26
+vacuum sealer machine,Commercial,5400,"0.54,0.67,0.44,0.67,0.81,0.67,0.44,0.36,1.00,0.81,1.00,0.44",56,0.42
+vacuum seal,"Informational, Transactional",4400,"1.00,0.08,0.36,0.44,0.81,0.44,0.29,0.13,0.54,0.24,0.44,0.19",57,0.46
+anova vacuum sealer,Commercial,2900,"0.55,0.42,0.36,0.42,0.65,0.55,0.42,0.55,0.65,1.00,1.00,0.55",44,0.38
+nesco vacuum sealer,Transactional,2900,"0.53,0.53,0.44,0.53,0.44,0.44,0.53,0.53,0.66,1.00,0.66,0.53",31,0.31
+vacuum seal storage bags,Commercial,2900,"0.36,0.36,0.28,0.36,0.43,0.36,0.36,0.28,1.00,0.36,0.36,0.28",51,0.38
+commercial vacuum sealer,Commercial,2400,"0.43,0.36,0.36,0.54,0.54,0.65,0.43,0.65,1.00,0.81,0.54,0.43",25,1.03
+foodsaver vacuum sealer bags,"Informational, Transactional",2400,"0.43,0.36,0.22,0.29,0.20,1.00,0.54,0.65,0.81,0.36,1.00,0.36",33,0.83
+vacuum seal bags for food,"Informational, Transactional",2400,"0.36,0.44,0.52,0.66,0.66,0.80,0.80,0.80,1.00,0.66,0.80,0.52",27,1.27
+vacuum sealer for canning jars,"Informational, Transactional",2400,"0.81,0.35,0.81,0.12,0.16,0.35,0.44,0.19,0.81,0.16,1.00,0.12",31,0.49
+vacuum sealer for food,Commercial,2400,"0.12,0.16,0.23,0.10,0.10,0.12,1.00,0.44,0.44,0.44,0.29,1.00",64,0.43
+weston vacuum sealer,Commercial,2400,"0.12,0.10,0.10,0.35,0.35,0.29,0.54,1.00,0.35,0.29,0.19,0.10",26,0.47
+chef preserve vacuum sealer,"Informational, Transactional",1900,"0.43,0.20,0.13,0.36,0.00,0.08,1.00,1.00,0.43",33,0.88
+foodsaver vacuum sealer machine with starter vacuum seal bags,"Navigational, Transactional",1900,"0.00,1.00,0.00",28,0.00
+jar vacuum sealer,"Informational, Commercial",1900,"0.36,0.24,0.20,0.24,0.36,0.44,1.00,1.00,0.52,0.80,0.80,0.66",26,0.46
+top rated vacuum sealer,Commercial,1900,"0.35,0.16,0.19,0.07,0.19,0.12,0.54,0.29,0.29,0.12,0.19,1.00",63,0.62
+vacuum seal containers,"Informational, Transactional",1900,"0.55,0.55,0.55,0.55,0.55,0.55,0.65,0.65,0.82,1.00,0.55,0.44",24,0.36
+vacuum sealing machine,Commercial,1900,"0.18,0.08,0.08,0.35,0.18,0.24,0.35,1.00,0.35,0.44,0.29,0.35",58,0.42
+vevor vacuum sealer,"Navigational, Transactional",1900,"0.20,0.13,0.16,0.16,0.54,0.36,0.29,0.54,1.00,0.54,0.54,0.29",37,0.83
+vacuum seal bag,"Informational, Transactional",1600,"0.44,0.27,1.00,0.36,0.06,0.36,0.44,0.53,0.27,0.67,0.36,0.36",45,0.95
+vacuum seal bags for travel,Commercial,1600,"0.36,0.24,0.36,0.44,0.66,0.20,0.44,0.44,0.20,0.24,1.00,0.66",26,0.44
+vacuum seal bags walmart,"Informational, Transactional",1600,"0.54,0.41,0.54,0.41,0.66,1.00,0.54,0.66,0.79,0.66,0.79,0.24",39,0.21
+vacuum sealer mason jar,"Informational, Commercial",1600,"1.00,0.53,0.09,0.12,0.04,0.10,0.04,0.19,0.10,0.35,0.12,0.02",16,0.49
+zwilling vacuum sealer,"Informational, Transactional",1600,"0.55,0.44,0.34,0.34,0.65,0.55,0.65,0.55,1.00,0.82,0.82,0.44",40,0.37
+avid armor vacuum sealer,Commercial,1300,"0.66,0.41,0.23,0.18,0.23,0.55,0.55,0.66,0.80,0.66,0.55,1.00",25,0.81
+electric mason jar vacuum sealer,Commercial,1300,"0.54,0.67,0.41,0.37,0.54,0.54,0.41,0.41,0.67,1.00,0.54,0.37",28,0.38
+food saver vacuum sealer bags,"Informational, Transactional",1300,"0.83,0.46,0.69,0.37,1.00,0.51,0.46,0.51,1.00,0.69,0.23,0.69",27,0.83
+meat vacuum sealer,Commercial,1300,"0.24,0.30,0.24,0.30,0.24,0.30,0.34,0.55,1.00,0.55,0.82,0.44",25,0.46
+vacuum food sealer,Commercial,1300,"0.28,0.14,0.41,0.28,0.24,0.41,0.55,0.66,0.66,1.00,0.66,0.55",62,0.43
+vacuum seal bags for clothing,Commercial,1300,"0.16,0.36,0.36,0.24,0.24,0.16,0.66,1.00,0.13,0.27,0.24,0.00",50,0.26
+vacuum seal mason jars,Commercial,1300,"1.00,0.16,0.13,0.18,0.10,0.10,0.24,0.07,0.05,0.08,0.53,0.07",19,0.49
+vacuum seal mattress bag,"Informational, Commercial",1300,"0.55,0.62,0.82,0.82,1.00,0.82,0.82,0.62,0.82,0.62,0.62,0.36",29,0.50
+vacuum sealer bags for food,"Informational, Transactional",1300,"0.52,0.68,0.25,0.68,0.85,0.52,0.52,0.68,0.68,1.00,0.85,1.00",32,1.27
+vacuum sealer for clothes,Commercial,1300,"0.41,0.41,0.79,1.00,0.54,0.54,0.41,0.54,0.41,0.41,0.79,0.54",44,0.44
+vacuum sealer for mason jars,Commercial,1300,"0.68,0.52,0.37,0.37,0.37,0.52,0.52,0.52,1.00,0.68,0.52,0.85",24,0.49
+foodsaver food vacuum sealer,"Informational, Transactional",1000,"0.30,0.17,0.17,0.13,0.00,0.00,0.00,0.09,1.00,0.04,0.00,1.00",29,0.40
+handheld vacuum sealer,"Informational, Transactional",1000,"0.55,0.44,0.30,0.37,0.44,0.44,0.55,0.55,0.81,1.00,1.00,0.62",31,0.39
+large vacuum seal bags,"Informational, Transactional",1000,"0.67,0.67,0.76,0.76,0.76,0.76,0.76,1.00,0.67,1.00,1.00,0.55",23,1.30
+lem vacuum sealer,Commercial,1000,"0.24,0.20,0.20,0.20,0.36,0.36,0.41,0.54,0.79,1.00,0.54,0.41",16,0.33
+nesco deluxe vacuum sealer,Transactional,1000,"0.55,0.80,0.44,0.62,0.55,0.44,0.55,0.55,0.80,1.00,0.62,0.62",31,0.31
+travel vacuum sealer bags,"Informational, Transactional",1000,"0.34,0.44,0.55,0.44,0.55,0.55,0.20,0.24,0.13,0.44,0.00,1.00",31,0.44
+vacmaster vacuum sealer,Commercial,1000,"0.30,0.20,0.20,0.20,0.65,1.00,0.24,0.24,0.55,0.34,0.30,0.30",18,0.47
+vacuum seal bags for foodsaver,"Navigational, Transactional",1000,"0.13,0.13,0.05,0.16,0.24,1.00,0.10,1.00,0.79,0.54,0.67,0.41",34,0.83
+vacuum seal jar sealer,Commercial,1000,"0.16,0.24,0.24,0.29,0.24,0.44,0.10,0.10,0.07,0.35,0.00,1.00",11,0.46
+vacuum seal jars,"Informational, Commercial",1000,"1.00,0.85,0.69,0.15,0.15,0.25,0.15,0.19,0.52,0.38,0.25,0.15",16,0.46
+vacuum seal machine,Commercial,1000,"1.00,0.61,0.55,0.45,0.82,0.82,1.00,0.55,0.45,0.45,0.36,0.61",58,0.42
+vacuum seal travel bags,Commercial,1000,"0.54,0.66,1.00,0.30,0.24,0.24,0.24,0.20,0.24,0.36,0.41,0.41",31,0.46
+vacuum sealed bags,"Informational, Transactional",1000,"0.34,0.06,0.34,0.30,0.00,1.00,0.00,0.25,0.66,0.83,0.30,0.45",51,0.95
+vacuum sealer reviews,Commercial,1000,"0.20,0.16,0.20,0.16,0.24,0.24,0.30,0.24,0.44,0.55,1.00,0.24",62,0.50
+ziploc vacuum sealer bags,"Informational, Transactional",1000,"0.55,0.55,0.62,0.36,0.81,1.00,0.81,0.81,0.81,1.00,0.30,0.55",31,0.51
+food saver vacuum seal,"Informational, Transactional",880,"1.00,0.55,0.41,0.55,0.30,0.03,0.03,0.05,0.06,0.67,0.20,0.02",24,0.48
+food vacuum sealer machine,Commercial,880,"0.37,0.31,0.37,0.31,0.31,0.20,0.84,0.20,0.52,1.00,0.52,0.84",63,0.49
+foodsaver vacuum sealer machine,"Informational, Transactional",880,"0.08,1.00,0.01,0.01,0.01,0.01,0.01,0.02,0.03,0.02,0.02,0.01",35,0.45
+jar sealer for vacuum sealer,Commercial,880,"0.13,0.36,0.07,0.04,0.07,0.16,0.08,0.13,0.02,1.00,0.00,0.01",25,0.46
+sous vide vacuum sealer,Commercial,880,"0.30,0.20,0.20,0.20,0.41,0.30,0.24,0.24,0.24,0.79,1.00,0.54",18,0.45
+vacuum seal backpack,Commercial,880,"0.13,0.13,1.00,0.52,0.37,0.46,0.31,0.25,0.31,1.00,0.68,0.52",26,0.43
+vacuum seal bags near me,Transactional,880,"0.72,0.59,1.00,0.88,0.88,1.00,0.72,0.72,0.72,1.00,1.00,0.59",45,1.72
+vacuum sealed jars,"Informational, Commercial",880,"0.24,0.01,0.24,0.03,0.24,0.02,0.20,0.01,1.00,0.24,0.00,0.16",16,0.46
+vacuum sealer jar sealer,"Informational, Commercial",880,"0.44,0.27,0.10,0.20,0.20,0.20,0.20,0.20,0.13,1.00,0.01,0.04",8,0.46
+vacuum sealer walmart,"Informational, Transactional",880,"0.30,0.24,0.04,0.54,0.30,0.54,0.41,0.07,1.00,0.09,0.80,0.54",35,0.15
+vacuum sealing,"Informational, Commercial",880,"0.82,0.45,0.23,0.45,0.23,1.00,0.82,0.82,0.61,0.00,0.36,0.45",66,0.46
+vevor chamber vacuum sealer,"Informational, Transactional",880,"0.20,0.16,0.20,0.25,0.25,0.31,0.46,0.52,0.84,1.00,0.68,0.46",34,1.12
+amazon vacuum sealer,"Navigational, Transactional",720,"0.45,0.24,0.36,0.30,0.55,0.36,0.45,0.45,0.62,1.00,0.62,0.36",32,0.45
+bonsenkitchen vacuum sealer,"Informational, Transactional",720,"0.48,0.48,0.59,0.48,0.48,0.48,0.59,0.72,0.88,1.00,1.00,1.00",32,0.31
+cabela's vacuum sealer,"Navigational, Transactional",720,"0.56,0.30,0.44,0.37,0.44,0.76,0.44,0.67,0.30,1.00,1.00,0.44",23,0.71
+company that will vacuum seal food,Transactional,720,"1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00",55,0.00
+foodsaver vacuum sealing system,"Informational, Transactional",720,"0.45,0.30,0.45,0.67,0.67,0.55,0.76,0.10,1.00,0.67,0.36,0.45",34,0.77
+mylar vacuum seal bags,"Informational, Transactional",720,"0.71,0.60,0.48,0.31,0.60,0.71,0.88,1.00,0.71,0.71,0.88,0.60",14,0.77
+nutrichef vacuum sealer,"Informational, Transactional",720,"0.55,0.45,0.36,0.30,0.45,0.36,0.55,0.55,0.55,1.00,0.68,0.55",32,0.31
+reusable vacuum seal bags,Commercial,720,"0.72,0.59,0.59,0.59,0.59,0.59,0.88,1.00,1.00,1.00,0.88,0.88",8,0.49
+seal a meal vacuum sealer,Commercial,720,"0.44,0.37,0.30,0.37,0.44,0.56,0.56,0.68,0.77,0.77,0.77,1.00",47,0.36
+vacuum chamber sealer,"Informational, Transactional",720,"0.36,0.29,0.29,0.29,0.36,0.29,0.55,0.44,1.00,0.80,0.62,0.44",24,0.71
+vacuum heat sealer machine,"Informational, Transactional",720,"0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00",34,0.42
+vacuum mason jar sealer,"Informational, Commercial",720,"1.00,1.00,0.07,0.02,0.09,0.00,0.07,0.07,0.11,0.07,0.07,0.07",21,0.49
+vacuum seal clothes,"Informational, Commercial",720,"0.16,0.16,0.20,0.20,0.20,0.16,0.08,0.24,0.05,0.44,1.00,0.24",44,0.26
+vacuum seal for mason jars,"Informational, Transactional",720,"1.00,0.67,0.00,0.04,0.09,0.02,0.00,0.00,0.00,0.00,0.02,0.04",17,0.49
+vacuum seal jar,"Informational, Commercial",720,"0.68,0.30,0.37,0.44,0.56,1.00,0.37,0.44,0.37,0.56,0.68,0.16",26,0.46
+vacuum seal machine walmart,"Informational, Transactional",720,"0.36,0.30,0.07,0.16,0.07,0.36,0.36,1.00,0.04,0.66,0.04,0.30",34,0.15
+vacuum seal services near me,Transactional,720,"1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00",22,0.00
+vacuum sealer near me,Transactional,720,"0.67,0.67,0.67,0.81,0.54,0.67,0.67,0.67,1.00,1.00,0.81,0.81",42,0.51
+vacuum sealer rolls,"Informational, Transactional",720,"0.55,0.30,0.45,0.36,0.67,0.55,0.45,0.20,0.76,1.00,0.67,0.30",10,1.24
+vacuum sealing bags,"Informational, Transactional",720,"0.45,0.36,0.76,0.45,1.00,0.55,0.30,1.00,0.24,0.24,0.76,0.45",52,0.95
+walmart vacuum seal bags,"Navigational, Transactional",720,"0.36,0.20,1.00,0.24,0.55,0.45,0.20,0.45,0.45,0.45,0.62,0.36",38,0.21
+cabelas vacuum sealer,"Navigational, Transactional",590,"0.19,0.15,0.19,0.24,0.24,0.55,0.24,0.44,0.44,1.00,0.55,0.02",22,0.71
+canning jar vacuum sealer,Commercial,590,"0.39,0.59,0.39,1.00,0.88,0.32,0.39,0.26,0.72,0.59,0.59,0.21",30,0.49
+chamber vacuum sealer bags,"Informational, Transactional",590,"0.30,0.24,0.20,0.24,0.36,0.36,0.45,0.55,1.00,0.67,1.00,0.45",6,1.81
+food saver vacuum seal bags,"Informational, Transactional",590,"0.20,0.30,0.25,0.30,0.30,0.56,0.30,0.56,0.44,1.00,1.00,0.44",31,0.83
+foodsaver handheld vacuum sealer,"Informational, Transactional",590,"0.55,0.55,0.44,0.55,0.82,0.65,0.82,0.82,1.00,1.00,0.65,0.55",37,0.34
+foodsaver vacuum seal bags,"Navigational, Transactional",590,"0.67,0.67,1.00,0.83,0.67,0.36,0.44,0.67,1.00,0.56,0.22,0.36",22,0.83
+geryon vacuum sealer,"Informational, Transactional",590,"0.67,0.54,0.67,0.67,0.67,0.67,0.83,0.67,0.83,1.00,0.83,0.67",20,0.31
+industrial vacuum sealer,"Informational, Transactional",590,"0.67,0.54,0.54,0.44,0.81,0.67,0.54,0.67,1.00,0.81,0.81,0.81",19,1.57
+power xl vacuum sealer,"Informational, Transactional",590,"0.38,0.21,0.48,0.60,0.60,0.71,0.48,0.48,0.88,1.00,0.88,0.13",24,0.36

@@ -1,0 +1,20 @@
+{
+  "name": "amz_ecom",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "amazon-buddy": "^2.2.45",
+    "axios": "^1.8.4",
+    "dotenv": "^16.5.0",
+    "p-limit": "^6.2.0",
+    "redis": "^4.7.0",
+    "user-agents": "^1.1.518"
+  }
+}
